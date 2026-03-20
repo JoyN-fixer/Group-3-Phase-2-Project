@@ -61,7 +61,8 @@ This analysis uses two primary datasets:
 
 ### 1. Average Total Gross by Genre
 
-![Genre vs Gross](images/genre_gross.png)
+<img width="1189" height="590" alt="genre_gross" src="https://github.com/user-attachments/assets/e68ee817-0985-44d2-bd75-f1b0f56cd765" />
+
 
 **Finding:** Adventure-based genres dominate box office performance. The top combinations are:
 - Adventure, Drama, Sport — highest average gross (~$1.2 billion)
@@ -74,7 +75,8 @@ Adventure appears in almost every top-performing genre combination, making it th
 
 ### 2. Movie Rating vs Total Gross
 
-![Rating vs Gross](images/rating_vs_gross.png)
+<img width="691" height="545" alt="rating_vs_gross" src="https://github.com/user-attachments/assets/b17d1f8b-c58d-48ab-b8b9-ad357fb9d224" />
+
 
 **Finding:** There is a positive relationship between movie ratings and total gross revenue. Movies rated between 6–8 tend to earn more at the box office. However, high ratings alone do not guarantee commercial success — market appeal and genre also play a major role.
 
@@ -82,7 +84,8 @@ Adventure appears in almost every top-performing genre combination, making it th
 
 ### 3. Average Total Gross by Studio
 
-![Studio vs Gross](images/studio_gross.png)
+<img width="1189" height="590" alt="studio_gross" src="https://github.com/user-attachments/assets/4b5f6831-f805-4b1c-b36c-db7ce5a0d36f" />
+
 
 **Finding:** A small group of studios consistently outperform others in average revenue. These top studios represent proven production and distribution strategies that a new studio should benchmark against.
 
