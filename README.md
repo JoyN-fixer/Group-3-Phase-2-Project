@@ -119,6 +119,8 @@ This project demonstrates that data-driven decision-making can significantly red
 
 ## Group Members
 
-- Alex (Alexk-creator)
-- Joy (JoyN-fixer)
-- [Add remaining group members]
+- Kevin Kisengu 
+- Rebecca Monchari
+- Joy Njeru
+- Mercy Wambui
+- Alex Njihia
